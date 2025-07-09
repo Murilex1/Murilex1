@@ -10,14 +10,10 @@
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </p>
 
-<div align="center">  
-  <img width="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MuriloFerre1ra&hide=pascal&layout=compact&theme=tokyonight"/>
-</div>
-
 <h3>About me:</h3>
 <h4>I am Full Stack developer and Blockchain enthusiastic </h4>
 
-## Technologys what utili in my day by day:
+## Technologies that I use in my day-to-day life.
  <img src="https://skillicons.dev/icons?i=js,typescript,html,css,materialui,react,git,nodejs,express,postgres,mongodb,postman"/>
 	
 </div>
