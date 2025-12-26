@@ -14,6 +14,6 @@
 <h4>I am Full Stack developer and Blockchain enthusiastic </h4>
 
 ## Technologies that I use in my day-to-day life.
- <img src="https://skillicons.dev/icons?i=js,typescript,html,css,materialui,react,git,nodejs,express,postgres,mongodb,postman"/>
+ <img src="https://skillicons.dev/icons?i=js,typescript,python,solidity,html,css,materialui,react,git,nodejs,express,postgres,mongodb,postman,azure"/>
 	
 </div>
